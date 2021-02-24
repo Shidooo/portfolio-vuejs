@@ -1,6 +1,6 @@
 # portfolio-vuejs
 
-[🔗 Link](https://shidooo.github.io/).
+[🔗 Link to my portfolio](https://shidooo.github.io/)
 
 ## Project setup
 ```
